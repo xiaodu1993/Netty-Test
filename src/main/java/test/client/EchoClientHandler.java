@@ -1,4 +1,4 @@
-package client;
+package test.client;
 
 import io.netty.buffer.ByteBuf;
 import io.netty.buffer.ByteBufUtil;
